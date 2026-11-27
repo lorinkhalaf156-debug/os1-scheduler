@@ -1,0 +1,8 @@
+group HW29 - algorithm: SRTF #
+name arrival burst priority #
+P1 0 4 2
+P2 3 2 3
+P3 3 3 2
+P4 4 5 1
+P5 6 2 2
+P6 6 8 2
